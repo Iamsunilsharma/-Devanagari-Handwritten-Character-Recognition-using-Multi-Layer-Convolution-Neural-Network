@@ -23,4 +23,10 @@ Actual character is centered within 28 by 28 pixel, padding of 2 pixel is added 
 
 ![output_7_0](https://user-images.githubusercontent.com/34977022/42726920-7314ee3a-87ba-11e8-8837-1c3dda7b4347.png)
 
+## Results
+
+Test score: 0.1313
+
+Test accuracy: 0.9610
+
 
